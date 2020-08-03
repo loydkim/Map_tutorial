@@ -1,0 +1,28 @@
+{
+  "location": {
+    "country1": {
+      "city1": {
+        "address1" : "country1 city1 address1",
+        "address2" : "country1 city1 address2",
+        "address3" : "country1 city1 address3"
+      },
+      "city2": {
+        "address1" : "country1 city2 address1",
+        "address2" : "country1 city2 address2",
+        "address3" : "country1 city2 address3"
+      }
+    },
+    "country2": {
+      "city1": {
+        "address1" : "country2 city1 address1",
+        "address2" : "country2 city1 address2",
+        "address3" : "country2 city1 address3"
+      },
+      "country2 city2": {
+        "address1" : "country2 city2 address1",
+        "address2" : "country2 city2 address2",
+        "address3" : "country2 city2 address3"
+      }
+    }
+  }
+}
