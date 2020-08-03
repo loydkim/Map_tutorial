@@ -1,6 +1,6 @@
 # Flutter Map tutorial
 
-<img src="" width="300" height="560">
+<img src="https://github.com/loydkim/Map_tutorial/blob/master/flutter_map.gif" width="300" height="560">
 
 * Develop environment.
 
